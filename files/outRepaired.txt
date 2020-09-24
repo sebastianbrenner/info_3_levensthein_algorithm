@@ -1,0 +1,16 @@
+Animate Artifact|{3}{U}|4|Enchantment — Aura|57
+Mox Pearl|{0}|0|Artifact|37
+Granite Gargoyle|{2}{R}|3|Creature — Gargoyle|31
+Hurloon Minotaur|{1}{R}{R}|3|Creature — Minotaur|55
+Lich|{B}{B}{B}{B}|4|Enchantment|47
+Scryb Sprites|{G}|1|Creature — Faerie|60
+Natural Selection|{G}|1|Instant|25
+Lord of the Pit|{4}{B}{B}{B}|7|Creature — Demon|22
+Desert Nomads|{2}{R}|3|Creature — Human Nomad|12
+Siren's Call|{U}|1|Instant|60
+Sol Ring|{1}|1|Artifact|52
+Benalish Hero|{W}|1|Creature — Human Soldier|17
+Tunnel|{R}|1|Instant|3
+Army of Allah|{1}{W}{W}|3|Instant|9
+Flying Men|{U}|1|Creature — Human|32
+Brass Man|{1}|1|Artifact Creature — Construct|8
